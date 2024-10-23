@@ -16,6 +16,9 @@ from transformers import GPT2LMHeadModel, GPT2Tokenizer
 
 warnings.filterwarnings('ignore')
 nltk.download('popular', quiet=True)
+nltk.download('punkt_tab', quiet=False)
+
+
 
 class VersatileChatbot:
     def __init__(self, name, corpus_file, personality_file,varbose = False):
