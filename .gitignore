@@ -1,0 +1,16 @@
+# Virtual environment
+chatbot_env/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Other common Python ignores
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/

@@ -2,6 +2,9 @@ import io
 import random
 import string
 import warnings
+# pip install numpy scikit-learn nltk torch transformers
+# python -m pip install numpy scikit-learn nltk torch transformers
+
 import numpy as np
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
