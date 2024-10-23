@@ -1,0 +1,12 @@
+{
+    "greetings": {
+        "inputs": ["hello", "hi", "greetings", "sup", "what's up", "hey"],
+        "responses": ["hi", "hey", "*nods*", "hi there", "hello", "I am glad! You are talking to me"]
+    },
+    "exit_commands": ["bye", "goodbye", "exit", "quit"],
+    "exit_message": "Goodbye! Take care.",
+    "gratitude_expressions": ["thanks", "thank you", "appreciate it"],
+    "gratitude_response": "You're welcome!",
+    "fallback_responses": ["I'm not sure I understand. Could you rephrase that?", "I don't have an answer for that. Can you ask me something else?"],
+    "welcome_message": "Hello! I'm Robo. I can answer your questions about various topics. If you want to exit, just say 'bye'!"
+}
